@@ -1,4 +1,4 @@
-# 🔎 VERITAS
+# 🔎 VERITAS — Self-Correcting, Evidence-First AI Research & Audit System
 
 ### **Self-Correcting, Evidence-First AI Research & Audit System**
 
