@@ -1,9 +1,4 @@
-````markdown
-# 🔎 VERITAS
-
-### **Self-Correcting, Evidence-First AI Research & Audit System**
-
-> **Research → Verify → Remember → Learn → Adapt → Research Better**
+## Core Idea
 
 VERITAS is an AI-powered research and auditing system designed to answer complex research questions using **live web sources** and an **independent AI Auditor** that verifies the claims and citations produced by the research agent.
 
@@ -21,7 +16,6 @@ Learn
 Adapt
    ↓
 Research Better
-````
 
 The central research question is:
 
